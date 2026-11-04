@@ -1,0 +1,14 @@
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNK
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   50.000   50.000   50.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+HETATM    1  C3  MN5A    0      24.500  27.570  24.947  1.00  0.00           C
+HETATM    2  O4  MN5A    0      25.217  26.409  24.462  1.00  0.00           O
+HETATM    3  P1  MN5A    0      24.991  24.986  25.166  1.00  0.00           P
+HETATM    4  O2  MN5A    0      24.952  24.995  26.652  1.00  0.00           O
+HETATM    5  O1  MN5A    0      26.139  24.099  24.487  1.00  0.00           O
+HETATM    6  C1  MN5A    0      27.511  24.230  24.927  1.00  0.00           C
+HETATM    7  O3  MN5A    0      23.676  24.447  24.426  1.00  0.00           O
+HETATM    8  C2  MN5A    0      23.012  23.264  24.933  1.00  0.00           C
+TER
+ENDMDL

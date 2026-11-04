@@ -1,0 +1,23 @@
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNK
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   50.000   50.000   50.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+HETATM    1  C17 SFWZ    0      29.764  23.250  24.973  1.00  0.00           C
+HETATM    2  C15 SFWZ    0      28.762  24.394  24.752  1.00  0.00           C
+HETATM    3  C16 SFWZ    0      28.586  24.709  23.260  1.00  0.00           C
+HETATM    4  C14 SFWZ    0      27.436  24.039  25.419  1.00  0.00           C
+HETATM    5  O4  SFWZ    0      26.550  25.193  25.344  1.00  0.00           O
+HETATM    6  P1  SFWZ    0      25.098  25.129  26.019  1.00  0.00           P
+HETATM    7  O3  SFWZ    0      25.029  24.793  27.464  1.00  0.00           O
+HETATM    8  O2  SFWZ    0      24.343  24.098  25.039  1.00  0.00           O
+HETATM    9  C6  SFWZ    0      23.102  23.453  25.446  1.00  0.00           C
+HETATM   10  C7  SFWZ    0      22.892  22.200  24.600  1.00  0.00           C
+HETATM   11  C8  SFWZ    0      21.645  21.456  25.102  1.00  0.00           C
+HETATM   12  C9  SFWZ    0      22.787  22.531  23.105  1.00  0.00           C
+HETATM   13  O5  SFWZ    0      24.518  26.588  25.721  1.00  0.00           O
+HETATM   14  C10 SFWZ    0      24.473  27.141  24.372  1.00  0.00           C
+HETATM   15  C11 SFWZ    0      23.626  28.412  24.377  1.00  0.00           C
+HETATM   16  C12 SFWZ    0      22.160  28.119  24.730  1.00  0.00           C
+HETATM   17  C13 SFWZ    0      24.227  29.498  25.282  1.00  0.00           C
+TER
+ENDMDL

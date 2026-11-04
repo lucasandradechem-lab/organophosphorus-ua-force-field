@@ -1,0 +1,26 @@
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   50.000   50.000   50.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+HETATM    1  C15 4JQJ    0      30.416  22.883  24.222  1.00  0.00           C
+HETATM    2  C13 4JQJ    0      30.179  23.928  25.313  1.00  0.00           C
+HETATM    3  C14 4JQJ    0      31.194  23.729  26.440  1.00  0.00           C
+HETATM    4  C12 4JQJ    0      28.762  23.773  25.869  1.00  0.00           C
+HETATM    5  C11 4JQJ    0      27.745  24.095  24.772  1.00  0.00           C
+HETATM    6  O4  4JQJ    0      26.422  23.950  25.291  1.00  0.00           O
+HETATM    7  P1  4JQJ    0      25.101  24.210  24.410  1.00  0.00           P
+HETATM    8  O1  4JQJ    0      25.148  23.374  23.190  1.00  0.00           O
+HETATM    9  O2  4JQJ    0      25.032  25.764  23.993  1.00  0.00           O
+HETATM   10  C1  4JQJ    0      24.975  26.825  24.949  1.00  0.00           C
+HETATM   11  C2  4JQJ    0      24.919  28.168  24.218  1.00  0.00           C
+HETATM   12  C3  4JQJ    0      24.858  29.303  25.241  1.00  0.00           C
+HETATM   13  C4  4JQJ    0      24.927  30.648  24.516  1.00  0.00           C
+HETATM   14  C5  4JQJ    0      23.548  29.214  26.026  1.00  0.00           C
+HETATM   15  O3  4JQJ    0      23.796  23.828  25.272  1.00  0.00           O
+HETATM   16  C6  4JQJ    0      22.473  23.851  24.733  1.00  0.00           C
+HETATM   17  C7  4JQJ    0      21.474  23.435  25.815  1.00  0.00           C
+HETATM   18  C8  4JQJ    0      20.057  23.459  25.238  1.00  0.00           C
+HETATM   19  C9  4JQJ    0      19.934  22.397  24.144  1.00  0.00           C
+HETATM   20  C10 4JQJ    0      19.048  23.165  26.351  1.00  0.00           C
+TER
+ENDMDL

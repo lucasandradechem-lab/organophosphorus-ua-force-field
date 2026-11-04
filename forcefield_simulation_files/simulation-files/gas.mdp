@@ -1,0 +1,34 @@
+; Run parameters
+integrator              = sd         
+nsteps                  = 5000000     
+dt                      = 0.002     
+; Output control
+nstxout-compressed      = 5000       
+nstvout                 = 5000        
+nstenergy               = 5000        
+nstlog                  = 5000        
+; Bond parameters
+; Bond parameters
+constraints             = all-bonds    
+constraint-algorithm    = LINCS
+continuation		= no
+lincs_iter              = 1         
+lincs_order             = 4        
+; Nonbonded settings 
+cutoff-scheme           = Verlet    
+ns_type                 = grid      
+nstlist                 = 10         
+rcoulomb                = 1.4        
+rvdw                    = 1.4       
+rlist			= 1.4
+coulombtype             = Cut-off       
+; Temperature coupling is on
+tc-grps                 = SYSTEM    
+tau_t                   = 0.1            
+ref_t                   = 298.15        
+; Pressure coupling is on
+pcoupl                  = no    
+; Velocity generation
+gen_vel                 = yes       
+gen_temp		= 298.15
+gen_seed		= -1

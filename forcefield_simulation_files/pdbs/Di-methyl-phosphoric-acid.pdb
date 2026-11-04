@@ -1,0 +1,14 @@
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   50.000   50.000   50.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+HETATM    1  C2  EDPY    0      23.024  23.396  25.134  1.00  0.00           C
+HETATM    2  O2  EDPY    0      23.831  24.282  24.378  1.00  0.00           O
+HETATM    3  P1  EDPY    0      24.786  25.323  25.171  1.00  0.00           P
+HETATM    4  O4  EDPY    0      24.057  26.275  26.076  1.00  0.00           O
+HETATM    5  O3  EDPY    0      25.610  26.044  23.979  1.00  0.00           O
+HETATM    6  H7  EDPY    0      26.162  26.827  24.191  1.00  0.00           H
+HETATM    7  O1  EDPY    0      25.888  24.396  25.910  1.00  0.00           O
+HETATM    8  C1  EDPY    0      26.642  23.457  25.164  1.00  0.00           C
+TER
+ENDMDL

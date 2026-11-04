@@ -1,0 +1,23 @@
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNK
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   50.000   50.000   50.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+HETATM    1  C17 VQLM    0      26.884  19.794  25.752  1.00  0.00           C
+HETATM    2  C16 VQLM    0      26.283  20.731  24.698  1.00  0.00           C
+HETATM    3  C15 VQLM    0      26.123  22.170  25.211  1.00  0.00           C
+HETATM    4  C14 VQLM    0      25.516  23.087  24.163  1.00  0.00           C
+HETATM    5  O13 VQLM    0      25.439  24.430  24.729  1.00  0.00           O
+HETATM    6  P6  VQLM    0      24.885  25.640  23.822  1.00  0.00           P
+HETATM    7  O7  VQLM    0      25.319  25.612  22.403  1.00  0.00           O
+HETATM    8  O5  VQLM    0      23.288  25.626  23.955  1.00  0.00           O
+HETATM    9  C4  VQLM    0      22.635  25.658  25.259  1.00  0.00           C
+HETATM   10  C3  VQLM    0      21.142  25.459  25.049  1.00  0.00           C
+HETATM   11  C2  VQLM    0      20.363  25.529  26.371  1.00  0.00           C
+HETATM   12  C1  VQLM    0      18.857  25.319  26.177  1.00  0.00           C
+HETATM   13  O8  VQLM    0      25.290  26.930  24.680  1.00  0.00           O
+HETATM   14  C9  VQLM    0      26.635  27.493  24.609  1.00  0.00           C
+HETATM   15  C10 VQLM    0      27.541  26.930  25.698  1.00  0.00           C
+HETATM   16  C11 VQLM    0      28.938  27.569  25.664  1.00  0.00           C
+HETATM   17  C12 VQLM    0      29.865  27.019  26.755  1.00  0.00           C
+TER
+ENDMDL

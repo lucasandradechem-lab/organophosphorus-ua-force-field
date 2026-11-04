@@ -1,0 +1,68 @@
+;   Isopropyl(S)-methylphosphonofluoridate
+; ATB molid: 705272
+; ATB Topology Hash: c5ef0
+;---------------------------------------------------------------------------------------------------------------------------
+; Bonded and van der Waals parameters other than the optimized types were taken from the GROMOS 54A7 parameter set.
+; Charges from RESP r2scan-3c//SMD(TBP)
+;---------------------------------------------------------------------------------------------------------------------------
+;
+;
+[ moleculetype ]
+; Name   nrexcl
+XSXZ     3
+[ atoms ]
+;  nr  type  resnr  resid  atom  cgnr  charge    mass
+    1   CH3    1    XSXZ     C4    1   0.0013  15.0350
+    2   P5p    1    XSXZ     P1    2   0.9989  30.9738
+    3     F    1    XSXZ     F1    3  -0.2849  18.9984
+    4   O2p    1    XSXZ     O2    4  -0.6236  15.9994
+    5   Ocp    1    XSXZ     O1    5  -0.4449  15.9994
+    6  CPos    1    XSXZ     C2    6   0.5173  12.0110
+    7    HC    1    XSXZ     H4    7   0.0023   1.0080
+    8   CH3    1    XSXZ     C1    8  -0.0891  15.0350
+    9   CH3    1    XSXZ     C3    9  -0.0773  15.0350
+;
+[ bonds ]
+;  ai   aj  funct   c0         c1
+    1    2    2   0.1800   1.8519e+06
+    2    3    2   0.1610   4.8400e+06
+    2    4    2   0.1480   8.6000e+06
+    2    5    2   0.1600   2.1484e+06
+    5    6    2   0.1480   5.7300e+06
+    6    7    2   0.1090   1.2300e+07
+    6    8    2   0.1520   5.4300e+06
+    6    9    2   0.1520   5.4300e+06
+[ pairs ]
+;  ai   aj  funct  ;  all 1-4 pairs but the ones excluded in GROMOS itp
+    1    6    1
+    2    7    1
+    2    8    1
+    2    9    1
+    3    6    1
+    4    6    1
+[ angles ]
+;  ai   aj   ak  funct   angle     fc
+    1    2    3    2    101.00  2076.33
+    1    2    4    2    119.00  3925.78
+    1    2    5    2    101.00  2076.33
+    3    2    4    2    112.00  4899.70
+    3    2    5    2    101.00  2076.33
+    4    2    5    2    120.00   780.00
+    2    5    6    2    120.00   530.00
+    5    6    7    2    106.75   503.00
+    5    6    8    2    109.50   520.00
+    5    6    9    2    109.50   520.00
+    7    6    8    2    110.30   524.00
+    7    6    9    2    110.30   524.00
+    8    6    9    2    111.00   530.00
+[ dihedrals ]
+; GROMOS improper dihedrals
+;  ai   aj   ak   al  funct   angle     fc
+    6    8    9    5    2     35.26   334.72
+[ dihedrals ]
+;  ai   aj   ak   al  funct    ph0      cp     mult
+    1    2    5    6    1      0.00     1.05    3
+    1    2    5    6    1      0.00     3.14    2
+    2    5    6    8    1    180.00     1.00    3
+[ exclusions ]
+;  ai   aj  funct  ;  GROMOS 1-4 exclusions

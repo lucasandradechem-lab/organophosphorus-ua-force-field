@@ -1,0 +1,18 @@
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE LIG
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   50.000   50.000   50.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+HETATM    1  C7  75JS    0      22.835  23.555  26.003  1.00  0.00           C
+HETATM    2  P1  75JS    0      22.953  24.825  24.730  1.00  0.00           P
+HETATM    3  F1  75JS    0      22.585  26.147  25.560  1.00  0.00           F
+HETATM    4  O2  75JS    0      22.081  24.655  23.543  1.00  0.00           O
+HETATM    5  O1  75JS    0      24.478  25.051  24.330  1.00  0.00           O
+HETATM    6  C2  75JS    0      25.556  25.520  25.225  1.00  0.00           C
+HETATM    7  H1  75JS    0      25.264  25.284  26.257  1.00  0.00           H
+HETATM    8  C6  75JS    0      25.657  27.033  25.065  1.00  0.00           C
+HETATM    9  C1  75JS    0      26.827  24.697  24.889  1.00  0.00           C
+HETATM   10  C3  75JS    0      26.550  23.203  25.164  1.00  0.00           C
+HETATM   11  C4  75JS    0      27.246  24.872  23.416  1.00  0.00           C
+HETATM   12  C5  75JS    0      27.972  25.163  25.815  1.00  0.00           C
+TER
+ENDMDL

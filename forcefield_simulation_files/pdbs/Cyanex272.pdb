@@ -1,0 +1,26 @@
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   50.000   50.000   50.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+HETATM    1  C16 CFAP    0      28.756  27.433  24.428  1.00  0.00           C
+HETATM    2  C8  CFAP    0      28.645  25.951  24.806  1.00  0.00           C
+HETATM    3  C14 CFAP    0      28.542  25.129  23.518  1.00  0.00           C
+HETATM    4  C15 CFAP    0      29.903  25.542  25.573  1.00  0.00           C
+HETATM    5  C6  CFAP    0      27.370  25.792  25.656  1.00  0.00           C
+HETATM    6  C2  CFAP    0      27.062  24.387  26.199  1.00  0.00           C
+HETATM    7  C10 CFAP    0      27.537  24.221  27.644  1.00  0.00           C
+HETATM    8  C4  CFAP    0      25.558  24.111  26.145  1.00  0.00           C
+HETATM    9  P1  CFAP    0      24.924  23.911  24.428  1.00  0.00           P
+HETATM   10  O2  CFAP    0      25.010  25.073  23.529  1.00  0.00           O
+HETATM   11  O1  CFAP    0      25.815  22.691  23.844  1.00  0.00           O
+HETATM   12  H35 CFAP    0      26.288  23.027  23.081  1.00  0.00           H
+HETATM   13  C3  CFAP    0      23.279  23.104  24.582  1.00  0.00           C
+HETATM   14  C1  CFAP    0      22.224  23.953  25.293  1.00  0.00           C
+HETATM   15  C9  CFAP    0      21.007  23.076  25.589  1.00  0.00           C
+HETATM   16  C5  CFAP    0      21.856  25.168  24.426  1.00  0.00           C
+HETATM   17  C7  CFAP    0      21.615  26.506  25.153  1.00  0.00           C
+HETATM   18  C11 CFAP    0      22.889  26.973  25.862  1.00  0.00           C
+HETATM   19  C12 CFAP    0      20.471  26.413  26.163  1.00  0.00           C
+HETATM   20  C13 CFAP    0      21.249  27.542  24.083  1.00  0.00           C
+TER
+ENDMDL

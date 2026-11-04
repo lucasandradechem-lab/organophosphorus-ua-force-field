@@ -1,0 +1,17 @@
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNK
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   50.000   50.000   50.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+HETATM    1  C6  IRHR    0      27.718  22.378  24.367  1.00  0.00           C
+HETATM    2  C5  IRHR    0      26.407  22.792  25.004  1.00  0.00           C
+HETATM    3  O4  IRHR    0      26.171  24.194  24.673  1.00  0.00           O
+HETATM    4  P1  IRHR    0      24.979  24.998  25.381  1.00  0.00           P
+HETATM    5  O2  IRHR    0      24.917  24.908  26.865  1.00  0.00           O
+HETATM    6  O1  IRHR    0      23.689  24.464  24.594  1.00  0.00           O
+HETATM    7  C2  IRHR    0      22.354  24.798  25.085  1.00  0.00           C
+HETATM    8  C1  IRHR    0      21.352  23.945  24.334  1.00  0.00           C
+HETATM    9  O3  IRHR    0      25.165  26.468  24.771  1.00  0.00           O
+HETATM   10  C3  IRHR    0      26.196  27.354  25.303  1.00  0.00           C
+HETATM   11  C4  IRHR    0      26.047  28.702  24.627  1.00  0.00           C
+TER
+ENDMDL

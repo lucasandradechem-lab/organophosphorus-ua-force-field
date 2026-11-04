@@ -1,0 +1,67 @@
+; Dimethylhydrogenphosphate
+; ATB molid: 1733970
+; ATB Topology Hash: f6bd0
+;---------------------------------------------------------------------------------------------------------------------------
+; Bonded and van der Waals parameters other than the optimized types were taken from the GROMOS 54A7 parameter set.
+; Charges from RESP r2scan-3c//SMD(TBP)
+;---------------------------------------------------------------------------------------------------------------------------
+;
+;
+[ moleculetype ]
+; Name   nrexcl
+EDPY     3
+[ atoms ]
+;  nr  type  resnr  resid  atom  cgnr  charge    mass
+    1   CH3    1    EDPY     C2    1   0.2262  15.0350
+    2   Ocp    1    EDPY     O2    2  -0.3130  15.9994
+    3   P5p    1    EDPY     P1    3   0.8821  30.9738
+    4   O2p    1    EDPY     O4    4  -0.5936  15.9994
+    5   Ohp    1    EDPY     O3    5  -0.5542  15.9994
+    6   Hop    1    EDPY     H7    6   0.4393   1.0080
+    7   Ocp    1    EDPY     O1    7  -0.3130  15.9994
+    8   CH3    1    EDPY     C1    8   0.2262  15.0350
+;
+[ bonds ]
+;  ai   aj  funct   c0         c1
+    1    2    2   0.1450   5.2319e+06
+    2    3    2   0.1610   4.8400e+06
+    3    4    2   0.1480   8.6000e+06
+    3    5    2   0.1610   4.8400e+06
+    3    7    2   0.1610   4.8400e+06
+    5    6    2   0.0972   1.9581e+07
+    7    8    2   0.1450   5.2319e+06
+[ pairs ]
+;  ai   aj  funct  ;  all 1-4 pairs but the ones excluded in GROMOS itp
+    1    4    1
+    1    5    1
+    1    7    1
+    2    6    1
+    2    8    1
+    4    6    1
+    4    8    1
+    5    8    1
+    6    7    1
+[ angles ]
+;  ai   aj   ak  funct   angle     fc
+    1    2    3    2    120.00   530.00
+    2    3    4    2    109.60   450.00
+    2    3    5    2    103.00   420.00
+    2    3    7    2    109.60   450.00
+    4    3    5    2    120.00   780.00
+    4    3    7    2    109.60   450.00
+    5    3    7    2    103.00   420.00
+    3    5    6    2    109.50   450.00
+    3    7    8    2    120.00   530.00
+[ dihedrals ]
+; GROMOS improper dihedrals
+;  ai   aj   ak   al  funct   angle     fc
+[ dihedrals ]
+;  ai   aj   ak   al  funct    ph0      cp     mult
+    1    2    3    7    1      0.00     3.19    3
+    1    2    3    7    1      0.00     5.09    2
+    2    3    7    8    1      0.00     3.19    3
+    2    3    7    8    1      0.00     5.09    2
+    7    3    5    6    1      0.00     1.05    3
+    7    3    5    6    1      0.00     3.14    2
+[ exclusions ]
+;  ai   aj  funct  ;  GROMOS 1-4 exclusions

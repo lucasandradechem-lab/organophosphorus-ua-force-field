@@ -1,0 +1,20 @@
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   50.000   50.000   50.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+HETATM    1  C6  J74L    0      22.899  26.154  23.766  1.00  0.00           C
+HETATM    2  C2  J74L    0      22.750  25.173  24.921  1.00  0.00           C
+HETATM    3  H2  J74L    0      22.482  24.189  24.518  1.00  0.00           H
+HETATM    4  C5  J74L    0      21.716  25.632  25.939  1.00  0.00           C
+HETATM    5  O2  J74L    0      23.989  25.040  25.613  1.00  0.00           O
+HETATM    6  P1  J74L    0      25.125  24.110  24.958  1.00  0.00           P
+HETATM    7  O4  J74L    0      24.600  22.991  24.173  1.00  0.00           O
+HETATM    8  O3  J74L    0      25.977  23.726  26.251  1.00  0.00           O
+HETATM    9  H15 J74L    0      25.537  23.042  26.757  1.00  0.00           H
+HETATM   10  O1  J74L    0      26.084  25.027  24.101  1.00  0.00           O
+HETATM   11  C1  J74L    0      26.987  26.023  24.586  1.00  0.00           C
+HETATM   12  H1  J74L    0      27.172  26.647  23.700  1.00  0.00           H
+HETATM   13  C3  J74L    0      26.383  26.870  25.694  1.00  0.00           C
+HETATM   14  C4  J74L    0      28.293  25.373  25.025  1.00  0.00           C
+TER
+ENDMDL

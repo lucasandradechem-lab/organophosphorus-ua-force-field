@@ -1,0 +1,35 @@
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE UNL
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   50.000   50.000   50.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+HETATM    1  C24 EFHR    0      32.011  22.228  27.138  1.00  0.00           C
+HETATM    2  C23 EFHR    0      31.834  23.321  26.115  1.00  0.00           C
+HETATM    3  C22 EFHR    0      30.431  23.324  25.541  1.00  0.00           C
+HETATM    4  C21 EFHR    0      30.270  24.418  24.507  1.00  0.00           C
+HETATM    5  C18 EFHR    0      28.840  24.529  23.997  1.00  0.00           C
+HETATM    6  C19 EFHR    0      28.780  25.236  22.650  1.00  0.00           C
+HETATM    7  C20 EFHR    0      29.273  24.378  21.513  1.00  0.00           C
+HETATM    8  C17 EFHR    0      28.003  25.302  25.020  1.00  0.00           C
+HETATM    9  O4  EFHR    0      26.632  25.263  24.670  1.00  0.00           O
+HETATM   10  P1  EFHR    0      25.606  24.637  25.726  1.00  0.00           P
+HETATM   11  O2  EFHR    0      26.196  23.983  26.884  1.00  0.00           O
+HETATM   12  O1  EFHR    0      24.634  25.861  26.051  1.00  0.00           O
+HETATM   13  C8  EFHR    0      24.004  26.469  24.936  1.00  0.00           C
+HETATM   14  C5  EFHR    0      23.310  27.746  25.408  1.00  0.00           C
+HETATM   15  C6  EFHR    0      21.832  27.498  25.679  1.00  0.00           C
+HETATM   16  C7  EFHR    0      21.612  26.582  26.855  1.00  0.00           C
+HETATM   17  C4  EFHR    0      23.489  28.851  24.375  1.00  0.00           C
+HETATM   18  C3  EFHR    0      23.337  30.229  24.985  1.00  0.00           C
+HETATM   19  C2  EFHR    0      23.533  31.311  23.943  1.00  0.00           C
+HETATM   20  C1  EFHR    0      23.464  32.686  24.556  1.00  0.00           C
+HETATM   21  O3  EFHR    0      24.685  23.716  24.792  1.00  0.00           O
+HETATM   22  C9  EFHR    0      23.779  22.915  25.532  1.00  0.00           C
+HETATM   23  C10 EFHR    0      22.883  22.155  24.558  1.00  0.00           C
+HETATM   24  C11 EFHR    0      23.614  20.928  24.033  1.00  0.00           C
+HETATM   25  C12 EFHR    0      22.991  20.375  22.777  1.00  0.00           C
+HETATM   26  C13 EFHR    0      21.577  21.780  25.245  1.00  0.00           C
+HETATM   27  C14 EFHR    0      20.612  22.946  25.304  1.00  0.00           C
+HETATM   28  C15 EFHR    0      19.343  22.579  26.045  1.00  0.00           C
+HETATM   29  C16 EFHR    0      18.411  23.760  26.153  1.00  0.00           C
+TER
+ENDMDL

@@ -1,0 +1,19 @@
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE DII
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   50.000   50.000   50.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+HETATM    1  C6  DII     0      28.590  25.110  24.729  1.00  0.00           C
+HETATM    2  C4  DII     0      27.162  25.552  25.014  1.00  0.00           C
+HETATM    3  H8  DII     0      26.654  25.778  24.070  1.00  0.00           H
+HETATM    4  C5  DII     0      27.074  26.746  25.956  1.00  0.00           C
+HETATM    5  O3  DII     0      26.482  24.414  25.643  1.00  0.00           O
+HETATM    6  P1  DII     0      25.045  23.895  25.131  1.00  0.00           P
+HETATM    7  O1  DII     0      24.942  23.551  23.679  1.00  0.00           O
+HETATM    8  C7  DII     0      24.755  22.528  26.280  1.00  0.00           C
+HETATM    9  O2  DII     0      24.048  25.090  25.585  1.00  0.00           O
+HETATM   10  C1  DII     0      22.853  25.462  24.823  1.00  0.00           C
+HETATM   11  H1  DII     0      23.008  25.141  23.788  1.00  0.00           H
+HETATM   12  C2  DII     0      21.640  24.750  25.417  1.00  0.00           C
+HETATM   13  C3  DII     0      22.748  26.980  24.889  1.00  0.00           C
+TER
+ENDMDL

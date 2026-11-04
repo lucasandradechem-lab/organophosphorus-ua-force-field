@@ -1,0 +1,28 @@
+TITLE     UNITED ATOM STRUCTURE FOR MOLECULE D2EH
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   50.000   50.000   50.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+HETATM    1  C14 D2EH    0      18.588  28.804  24.726  1.00  0.00           C
+HETATM    2  C10 D2EH    0      19.553  27.825  24.078  1.00  0.00           C
+HETATM    3  C1  D2EH    0      20.312  27.014  25.129  1.00  0.00           C
+HETATM    4  C2  D2EH    0      21.275  26.025  24.471  1.00  0.00           C
+HETATM    5  C3  D2EH    0      22.153  25.248  25.472  1.00  0.00           C
+HETATM    6  C11 D2EH    0      21.357  24.453  26.531  1.00  0.00           C
+HETATM    7  C15 D2EH    0      20.412  23.400  25.970  1.00  0.00           C
+HETATM    8  C4  D2EH    0      23.135  24.360  24.689  1.00  0.00           C
+HETATM    9  O1  D2EH    0      23.976  23.652  25.584  1.00  0.00           O
+HETATM   10  P1  D2EH    0      25.013  22.623  24.920  1.00  0.00           P
+HETATM   11  O2  D2EH    0      24.405  21.613  24.005  1.00  0.00           O
+HETATM   12  O3  D2EH    0      25.693  21.935  26.197  1.00  0.00           O
+HETATM   13  H1  D2EH    0      25.224  21.109  26.413  1.00  0.00           H
+HETATM   14  O4  D2EH    0      26.181  23.522  24.289  1.00  0.00           O
+HETATM   15  C5  D2EH    0      26.882  24.408  25.144  1.00  0.00           C
+HETATM   16  C6  D2EH    0      27.889  25.239  24.332  1.00  0.00           C
+HETATM   17  C12 D2EH    0      28.863  24.356  23.520  1.00  0.00           C
+HETATM   18  C16 D2EH    0      29.822  23.518  24.354  1.00  0.00           C
+HETATM   19  C7  D2EH    0      28.582  26.246  25.272  1.00  0.00           C
+HETATM   20  C8  D2EH    0      29.534  27.205  24.555  1.00  0.00           C
+HETATM   21  C9  D2EH    0      30.103  28.242  25.524  1.00  0.00           C
+HETATM   22  C13 D2EH    0      31.049  29.198  24.817  1.00  0.00           C
+TER
+ENDMDL

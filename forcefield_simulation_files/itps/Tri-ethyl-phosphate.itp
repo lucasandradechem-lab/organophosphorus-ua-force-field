@@ -1,0 +1,82 @@
+;   Triethylphosphate
+; ATB molid: 925487
+; ATB Topology Hash: 06b8d
+;---------------------------------------------------------------------------------------------------------------------------
+; Bonded and van der Waals parameters other than the optimized types were taken from the GROMOS 54A7 parameter set.
+; Charges from RESP r2scan-3c//SMD(TBP)
+;---------------------------------------------------------------------------------------------------------------------------
+;
+;
+[ moleculetype ]
+; Name   nrexcl
+IRHR     3
+[ atoms ]
+;  nr  type  resnr  resid  atom  cgnr  charge    mass
+    1   CH3    1    IRHR     C6    1   0.0429  15.0350
+    2   CH2    1    IRHR     C5    2   0.2572  14.0270
+    3   Ocp    1    IRHR     O4    3  -0.3646  15.9994
+    4   P5p    1    IRHR     P1    4   0.7127  30.9738
+    5   O2p    1    IRHR     O2    5  -0.5192  15.9994
+    6   Ocp    1    IRHR     O1    6  -0.3646  15.9994
+    7   CH2    1    IRHR     C2    7   0.2572  14.0270
+    8   CH3    1    IRHR     C1    8   0.0429  15.0350
+    9   Ocp    1    IRHR     O3    9  -0.3646  15.9994
+   10   CH2    1    IRHR     C3   10   0.2572  14.0270
+   11   CH3    1    IRHR     C4   11   0.0429  15.0350
+;
+[ bonds ]
+;  ai   aj  funct   c0         c1
+    1    2    2   0.1520   5.4300e+06
+    2    3    2   0.1460   4.6913e+06
+    3    4    2   0.1610   4.8400e+06
+    4    5    2   0.1480   8.6000e+06
+    4    6    2   0.1610   4.8400e+06
+    4    9    2   0.1610   4.8400e+06
+    6    7    2   0.1460   4.6913e+06
+    7    8    2   0.1520   5.4300e+06
+    9   10    2   0.1460   4.6913e+06
+   10   11    2   0.1520   5.4300e+06
+[ pairs ]
+;  ai   aj  funct  ;  all 1-4 pairs but the ones excluded in GROMOS itp
+    1    4    1
+    2    5    1
+    2    6    1
+    2    9    1
+    3    7    1
+    3   10    1
+    4    8    1
+    4   11    1
+    5    7    1
+    5   10    1
+    6   10    1
+    7    9    1
+[ angles ]
+;  ai   aj   ak  funct   angle     fc
+    1    2    3    2    109.50   520.00
+    2    3    4    2    120.00   530.00
+    3    4    5    2    120.00   780.00
+    3    4    6    2    103.00   420.00
+    3    4    9    2    103.00   420.00
+    5    4    6    2    120.00   780.00
+    5    4    9    2    120.00   780.00
+    6    4    9    2    103.00   420.00
+    4    6    7    2    120.00   530.00
+    6    7    8    2    109.50   520.00
+    4    9   10    2    120.00   530.00
+    9   10   11    2    109.50   520.00
+[ dihedrals ]
+; GROMOS improper dihedrals
+;  ai   aj   ak   al  funct   angle     fc
+[ dihedrals ]
+;  ai   aj   ak   al  funct    ph0      cp     mult
+    1    2    3    4    1      0.00     1.26    3
+    2    3    4    6    1      0.00     3.19    3
+    2    3    4    6    1      0.00     5.09    2
+    4    6    7    8    1      0.00     1.26    3
+    4    9   10   11    1      0.00     1.26    3
+    5    4    6    7    1      0.00     3.19    3
+    5    4    6    7    1      0.00     5.09    2
+    6    4    9   10    1      0.00     3.19    3
+    6    4    9   10    1      0.00     5.09    2
+[ exclusions ]
+;  ai   aj  funct  ;  GROMOS 1-4 exclusions
